@@ -2,6 +2,7 @@ This project proposes a data-driven approach for evaluating faculty performance 
 
 The model was trained on faculty data including teaching performance, research output, experience, and feedback scores.
 
+
 **Methodology**
 
 - Conditional logic imputation for missing values
@@ -9,6 +10,7 @@ The model was trained on faculty data including teaching performance, research o
 - Synthetic target generation using weighted formula
 
 - Applied regression models for prediction
+- 
 
 **Models Used**
 
@@ -22,6 +24,7 @@ The model was trained on faculty data including teaching performance, research o
 
 - XGBoost
 
+
 **Best Model**
 
 Lasso Regression
@@ -29,6 +32,7 @@ Lasso Regression
   MSE: 0.0000271
 
   R²: 0.9991
+
 
 **Technologies**
 
