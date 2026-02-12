@@ -10,7 +10,7 @@ The model was trained on faculty data including teaching performance, research o
 - Synthetic target generation using weighted formula
 
 - Applied regression models for prediction
-- 
+  
 
 **Models Used**
 
