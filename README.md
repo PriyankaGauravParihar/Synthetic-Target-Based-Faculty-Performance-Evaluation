@@ -21,11 +21,10 @@ The model was trained on faculty data including teaching performance, research o
 - Random Forest
 
 - XGBoost
-- 
 
 **Best Model**
 
-- Lasso Regression
+Lasso Regression
 
   MSE: 0.0000271
 
